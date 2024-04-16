@@ -1,1 +1,1 @@
-# CollegeDunia
+# College-Table
